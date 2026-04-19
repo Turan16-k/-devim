@@ -1,0 +1,42 @@
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\PaintApp.exe
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\PaintApp.deps.json
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\PaintApp.runtimeconfig.json
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\PaintApp.dll
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\PaintApp.pdb
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\System.IO.Pipelines.dll
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\System.Text.Encodings.Web.dll
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\PaintApp.csproj.AssemblyReference.cache
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\PaintApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\PaintApp.AssemblyInfoInputs.cache
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\PaintApp.AssemblyInfo.cs
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\PaintApp.csproj.Up2Date
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\PaintApp.dll
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\refint\PaintApp.dll
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\PaintApp.pdb
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\PaintApp.genruntimeconfig.cache
+C:\Users\TURAN\OneDrive\Masaüstü\Yeni klasör\PaintApp\obj\Debug\net9.0-windows\ref\PaintApp.dll
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\PaintApp.exe
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\PaintApp.deps.json
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\PaintApp.runtimeconfig.json
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\PaintApp.dll
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\PaintApp.pdb
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\System.IO.Pipelines.dll
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\System.Text.Encodings.Web.dll
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\System.Text.Json.dll
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Text.Encodings.Web.dll
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\PaintApp.csproj.AssemblyReference.cache
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\PaintApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\PaintApp.AssemblyInfoInputs.cache
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\PaintApp.AssemblyInfo.cs
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\PaintApp.csproj.Up2Date
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\PaintApp.dll
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\refint\PaintApp.dll
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\PaintApp.pdb
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\PaintApp.genruntimeconfig.cache
+C:\Users\TURAN\OneDrive\Masaüstü\PaintApp\obj\Debug\net9.0-windows\ref\PaintApp.dll
